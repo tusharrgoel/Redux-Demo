@@ -4,3 +4,4 @@ export { buyIceCream } from "./iceCream/iceCreamActions";
 
 export { buyCake } from "./cakes/CakeActions";
 
+export * from "./user/userAction";
